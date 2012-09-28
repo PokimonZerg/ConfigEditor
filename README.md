@@ -1,2 +1,2 @@
-SimpleFontGenerator
-===================
+ConfigEditor
+============
