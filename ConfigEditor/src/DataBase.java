@@ -50,7 +50,7 @@ public class DataBase
     {
         try
         {
-            s.close();
+            s.close(); 
             c.close();
             
             s = null;
