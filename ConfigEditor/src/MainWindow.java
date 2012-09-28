@@ -6,7 +6,7 @@ public class MainWindow extends javax.swing.JFrame
 {
     public MainWindow()
     {
-        initComponents();
+        initComponents(); 
               
         db           = new DataBase("config.sdb");
         last_profile = new Profile(); // заглушка на время инициализации
